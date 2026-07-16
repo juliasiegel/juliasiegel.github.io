@@ -9,5 +9,5 @@ My background is in Environmental Studies at Dartmouth College, with focuses in 
 ![Dartmouth College logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKV71_N9ruAs0O3pDNLsbSAH5NBMwCo5Smxp4z4RphA&s=10)
 
 # Some Favorite Maps
-<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
+## CU Boulder Campus Map
 <embed type="text/html" src="/img/cu_map1.html" height="650" width="850">
