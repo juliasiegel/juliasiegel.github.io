@@ -12,4 +12,5 @@ My background is in Environmental Studies at Dartmouth College, with focuses in 
 ## CU Boulder Campus Map
 <embed type="text/html" src="/img/cu_map1.html" height="650" width="850">
 ## Fort Collins, CO City Map
+<embed type="text/html" src="/img/foco_map1.html" height="650" width="850">
 
