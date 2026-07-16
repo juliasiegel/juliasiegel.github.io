@@ -10,3 +10,4 @@ My background is in Environmental Studies at Dartmouth College, with focuses in 
 
 # Some Favorite Maps
 <embed type="text/html" src="/img/cu_map.html" height="650" width="850">
+<embed type="text/html" src="/img/cu_map1.html" height="650" width="850">
