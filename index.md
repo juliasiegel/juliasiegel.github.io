@@ -15,3 +15,6 @@ My background is in Environmental Studies at Dartmouth College, with focuses in 
 ## Fort Collins, CO City Map
 <embed type="text/html" src="/img/foco_map1.html" height="650" width="850">
 
+## Plot of Boulder Temperature
+<embed type="text/html" src="/img/boulder_plot.html" height="650" width="850">
+
