@@ -18,3 +18,8 @@ My background is in Environmental Studies at Dartmouth College, with focuses in 
 ## Plot of Boulder Temperature
 <embed type="text/html" src="/img/boulder_plot.html" height="650" width="850">
 
+## Plot of Mount Desert Island Temperature
+
+<embed type="text/html" src="/img/mdi_plot.html" height="650" width="850">
+
+
